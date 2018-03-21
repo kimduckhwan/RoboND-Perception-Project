@@ -30,6 +30,10 @@
 ---
 ### Writeup / README
 
+
+### Please see attached file: writeup_perception.pdf.
+
+
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  
 
 You're reading it!
